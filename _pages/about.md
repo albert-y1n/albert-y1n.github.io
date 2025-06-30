@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Incoming Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on Trustworthy LLM.
+I am an Incoming Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
 
 I received my B.Eng. in Computer Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
@@ -22,7 +22,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 * Research Intern, Ant Group, 04/2025 - 07/2025
 * Research Intern, Microsoft Research Asia, 01/2025 - 04/2025
-* Research Assistant, Hong Kong University of Science and Technology, 07/2023 - 09/2024
+* Research Assistant, Hong Kong University of Science and Technology(Guangzhou), 07/2023 - 09/2024
 
 ## Publications
 
