@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Incoming Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on Trustworthy LLM.
 
-I received my B.Eng in Computer Science from [University of Science and Technology of China](https://www.whu.edu.cn/) in 2024.
+I received my B.Eng. in Computer Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
 
 
@@ -28,5 +28,6 @@ I received my B.Eng in Computer Science from [University of Science and Technolo
 
 *\* Equal contribution*
 
+*Miao Yu, Shilong Wang, Guibin Zhang, Junyuan Mao, **Chenlong Yin**, Qijiong Liu, Qingsong Wen, Kun Wang, Yang Wang. [Netsafe: Exploring the topological safety of multi-agent networks](https://arxiv.org/abs/2410.15686), In *ACL Findings*, 2025.
 * Weijia Zhang\*, **Chenlong Yin\***, Hao Liu, and Hui Xiong. [Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series](https://arxiv.org/abs/2408.08328), In *ACM KDD*, 2025.
 * Weijia Zhang, **Chenlong Yin**, Hao Liu, and Hui Xiong. [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/pdf?id=UZlMXUGI6e), In *ICML*, 2024.
