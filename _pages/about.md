@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Incoming Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
+I am a first-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
 
 I received my B.Eng. in Computer Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
@@ -16,7 +16,8 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 ## Research Interests
 
-* Trustworthy LLM-empowered AI systems 
+* Trustworthy LLM-empowered AI systems
+* LLM Alignment
 
 ## Professional Experiences
 
