@@ -29,10 +29,14 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 *\* Equal contribution*
 
+### Conference
 * Xiaolong Jin, Zixuan Weng, Hanxi Guo, **Chenlong Yin**, Siyuan Cheng, Guangyu Shen, Xiangyu Zhang. [JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models](https://iccv.thecvf.com/virtual/2025/poster/2254), In *ICCV*, 2025.
 * Miao Yu, Shilong Wang, Guibin Zhang, Junyuan Mao, **Chenlong Yin**, Qijiong Liu, Qingsong Wen, Kun Wang, Yang Wang. [Netsafe: Exploring the topological safety of multi-agent networks](https://arxiv.org/abs/2410.15686), In *ACL Findings*, 2025.
 * Weijia Zhang\*, **Chenlong Yin\***, Hao Liu, and Hui Xiong. [Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series](https://arxiv.org/abs/2408.08328), In *ACM KDD*, 2025.
 * Weijia Zhang, **Chenlong Yin**, Hao Liu, Xiaofang Zhou, and Hui Xiong. [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/pdf?id=UZlMXUGI6e), In *ICML*, 2024.
+
+### Preprint
+* **Chenlong Yin**, Zeyang Sha, Shiwen Cui, and Changhua Meng. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/), arxiv, 2025.
 
 ## Academic Service
 
