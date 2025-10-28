@@ -36,7 +36,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 * Weijia Zhang, **Chenlong Yin**, Hao Liu, Xiaofang Zhou, and Hui Xiong. [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/pdf?id=UZlMXUGI6e), In *ICML*, 2024.
 
 ### Preprint
-* **Chenlong Yin**, Zeyang Sha, Shiwen Cui, and Changhua Meng. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/), arxiv, 2025.
+* **Chenlong Yin**, Zeyang Sha, Shiwen Cui, and Changhua Meng. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/abs/2510.22977), arxiv, 2025.
 
 ## Academic Service
 
