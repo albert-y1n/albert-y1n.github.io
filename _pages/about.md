@@ -37,6 +37,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 ### Preprint
 * **Chenlong Yin**, Zeyang Sha, Shiwen Cui, and Changhua Meng. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/abs/2510.22977), arxiv, 2025.
+* Runpeng Geng, Yanting Wang, **Chenlong Yin**, Minhao Cheng, Ying Chen, and Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://www.arxiv.org/abs/2511.10720), arxiv, 2025.
 
 ## Academic Service
 
