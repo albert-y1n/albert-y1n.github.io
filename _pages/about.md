@@ -30,7 +30,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 *\* Equal contribution*
 
 ### Conference
-* **Chenlong Yin**, Zeyang Sha, Shiwen Cui, Changhua Meng. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/abs/2510.22977), In *ACL Main*, 2026.
+* **Chenlong Yin**, Zeyang Sha, Shiwen Cui, Changhua Meng, Zechao Li. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/abs/2510.22977), In *ACL Main*, 2026.
 * Runpeng Geng\*, **Chenlong Yin\***, Yanting Wang, Ying Chen, Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://github.com/sleeepeer/PIArena), In *ACL Main*, 2026.
 * Xiaolong Jin, Zixuan Weng, Hanxi Guo, **Chenlong Yin**, Siyuan Cheng, Guangyu Shen, Xiangyu Zhang. [JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_JailbreakDiffBench_A_Comprehensive_Benchmark_for_Jailbreaking_Diffusion_Models_ICCV_2025_paper.pdf), In *ICCV*, 2025.
 * Miao Yu, Shilong Wang, Guibin Zhang, Junyuan Mao, **Chenlong Yin**, Qijiong Liu, Qingsong Wen, Kun Wang, Yang Wang. [Netsafe: Exploring the topological safety of multi-agent networks](https://arxiv.org/abs/2410.15686), In *ACL Findings*, 2025.
