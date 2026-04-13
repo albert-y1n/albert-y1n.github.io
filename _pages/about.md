@@ -44,4 +44,4 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 ## Academic Service
 
 ### Conference Reviewer:
-* 2026: ICLR, KDD, ACL
+* 2026: ICLR, KDD, ACL, COLM
