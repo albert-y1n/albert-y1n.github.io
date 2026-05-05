@@ -39,9 +39,10 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 ### Preprint
 * **Chenlong Yin**, Runpeng Geng, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), arxiv, 2026.
+* Yanting Wang, **Chenlong Yin**, Ying Chen, Jinyuan Jia. [FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157v1), arxiv, 2026.
 * Runpeng Geng, Yanting Wang, **Chenlong Yin**, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://www.arxiv.org/abs/2511.10720), arxiv, 2025.
 
 ## Academic Service
 
 ### Conference Reviewer:
-* 2026: ICLR, KDD, ACL, COLM
+* 2026: ICLR, KDD, ACL, COLM, Neurips
