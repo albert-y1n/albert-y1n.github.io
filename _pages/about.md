@@ -30,6 +30,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 *\* Equal contribution*
 
 ### Conference
+* **Chenlong Yin**, Runpeng Geng, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), In COLM, 2026.
 * **Chenlong Yin**, Zeyang Sha, Shiwen Cui, Changhua Meng, Zechao Li. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/abs/2510.22977), In *ACL Main(**oral**)*, 2026.
 * Runpeng Geng\*, **Chenlong Yin\***, Yanting Wang, Ying Chen, Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://github.com/sleeepeer/PIArena), In *ACL Main*, 2026.
 * Xiaolong Jin, Zixuan Weng, Hanxi Guo, **Chenlong Yin**, Siyuan Cheng, Guangyu Shen, Xiangyu Zhang. [JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_JailbreakDiffBench_A_Comprehensive_Benchmark_for_Jailbreaking_Diffusion_Models_ICCV_2025_paper.pdf), In *ICCV*, 2025.
@@ -38,7 +39,6 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 * Weijia Zhang, **Chenlong Yin**, Hao Liu, Xiaofang Zhou, Hui Xiong. [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/pdf?id=UZlMXUGI6e), In *ICML*, 2024.
 
 ### Preprint
-* **Chenlong Yin**, Runpeng Geng, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), arxiv, 2026.
 * Yanting Wang, **Chenlong Yin**, Ying Chen, Jinyuan Jia. [FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157v1), arxiv, 2026.
 * Runpeng Geng, Yanting Wang, **Chenlong Yin**, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://www.arxiv.org/abs/2511.10720), arxiv, 2025.
 
