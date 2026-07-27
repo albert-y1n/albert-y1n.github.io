@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
+I am a first-year Ph.D. student at the [Pennsylvania State University](https://www.psu.edu/), advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
 
 I received my B.Eng. in Computer Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
@@ -21,6 +21,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 ## Professional Experiences
 
+* Student Researcher, [XYZ AI Lab](https://xyz-lab.ai/), 04/2026 - present
 * Research Intern, Ant Group, 04/2025 - 07/2025
 * Research Intern, Microsoft Research Asia, 01/2025 - 04/2025
 * Research Assistant, Hong Kong University of Science and Technology(Guangzhou), 07/2023 - 09/2024
