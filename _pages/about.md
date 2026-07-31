@@ -16,8 +16,8 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 ## Research Interests
 
+* LLM and Agent Post training
 * Trustworthy LLM-empowered AI systems
-* LLM Alignment
 
 ## Professional Experiences
 
