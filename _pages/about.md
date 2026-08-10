@@ -21,7 +21,6 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 
 ## Professional Experiences
 
-* Student Researcher, [XYZ AI Lab](https://xyz-lab.ai/), 04/2026 - present
 * Research Intern, Ant Group, 04/2025 - 07/2025
 * Research Intern, Microsoft Research Asia, 01/2025 - 04/2025
 * Research Assistant, Hong Kong University of Science and Technology(Guangzhou), 07/2023 - 09/2024
