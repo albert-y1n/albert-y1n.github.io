@@ -33,6 +33,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 * **Chenlong Yin**, Runpeng Geng, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), In *COLM*, 2026.
 * **Chenlong Yin**, Zeyang Sha, Shiwen Cui, Changhua Meng, Zechao Li. [The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination](https://arxiv.org/abs/2510.22977), In *ACL Main(**oral**)*, 2026.
 * Runpeng Geng\*, **Chenlong Yin\***, Yanting Wang, Ying Chen, Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://github.com/sleeepeer/PIArena), In *ACL Main*, 2026.
+* Runpeng Geng, Yanting Wang, **Chenlong Yin**, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://www.arxiv.org/abs/2511.10720), In *EMNLP Main*, 2026.
 * Xiaolong Jin, Zixuan Weng, Hanxi Guo, **Chenlong Yin**, Siyuan Cheng, Guangyu Shen, Xiangyu Zhang. [JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_JailbreakDiffBench_A_Comprehensive_Benchmark_for_Jailbreaking_Diffusion_Models_ICCV_2025_paper.pdf), In *ICCV*, 2025.
 * Miao Yu, Shilong Wang, Guibin Zhang, Junyuan Mao, **Chenlong Yin**, Qijiong Liu, Qingsong Wen, Kun Wang, Yang Wang. [Netsafe: Exploring the topological safety of multi-agent networks](https://arxiv.org/abs/2410.15686), In *ACL Findings*, 2025.
 * Weijia Zhang\*, **Chenlong Yin\***, Hao Liu, Hui Xiong. [Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series](https://arxiv.org/abs/2408.08328), In *KDD*, 2025.
@@ -41,7 +42,6 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 ### Preprint
 * Yanting Wang, **Chenlong Yin**, Runpeng Geng, Jinyuan Jia. [Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming](https://arxiv.org/abs/2608.05108), arxiv, 2026.
 * Yanting Wang, **Chenlong Yin**, Ying Chen, Jinyuan Jia. [FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157v1), arxiv, 2026.
-* Runpeng Geng, Yanting Wang, **Chenlong Yin**, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://www.arxiv.org/abs/2511.10720), arxiv, 2025.
 
 ## Academic Service
 
