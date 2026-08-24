@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the [Pennsylvania State University](https://www.psu.edu/), advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
+I am a Second-year Ph.D. student at the [Pennsylvania State University](https://www.psu.edu/), advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/).
 
 I received my B.Eng. in Computer Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
