@@ -40,6 +40,7 @@ I received my B.Eng. in Computer Science from [University of Science and Technol
 * Weijia Zhang, **Chenlong Yin**, Hao Liu, Xiaofang Zhou, Hui Xiong. [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/pdf?id=UZlMXUGI6e), In *ICML*, 2024.
 
 ### Preprint
+* **Chenlong Yin**, Xiaolong Jin, Wei Zou, Yanting Wang, Jinyuan Jia. [Climbing the Hill: Prompt Injection Red-Teaming Against Frontier Models with Curriculum Reinforcement Learning](https://arxiv.org/abs/2609.33628), arxiv, 2026.
 * Yanting Wang, **Chenlong Yin**, Runpeng Geng, Jinyuan Jia. [Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming](https://arxiv.org/abs/2608.05108), arxiv, 2026.
 * Yanting Wang, **Chenlong Yin**, Ying Chen, Jinyuan Jia. [FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157v1), arxiv, 2026.
 
